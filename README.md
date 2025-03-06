@@ -6,6 +6,7 @@
 ## Introduction
 This project is a simple Data Cleaning Script that processes CSV files to remove errors and inconsistencies. It helps clean datasets by handling missing values and removing duplicate records.
 
+I have created a raw file (only for testing purpose) or you can test this on your own data.
 ==============
 How It Works
 ================
